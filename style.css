@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    text-align: center;
+}
+
+h1 {
+    color: #222;
+}
+
+.container {
+    margin-top: 150px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 12px 20px;
+    background: #1e90ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background: #0b5ed7;
+}
+
+table {
+    margin: auto;
+    width: 75%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+th {
+    background: #1e90ff;
+    color: white;
+}
+
+tr:hover {
+    background: #f1f1f1;
+}
